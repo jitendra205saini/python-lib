@@ -41,6 +41,3 @@ This list showcases some of the most popular ones across **data science**, **web
 
 ---
 
-## 📂 Images Folder
-Store all images in a folder named `images` in the root of the repository.  
-Example:
