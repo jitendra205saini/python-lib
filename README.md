@@ -17,8 +17,8 @@ This list showcases some of the most popular ones across **data science**, **web
 
 | Logo | Library | Inspiration | Description | Common Use Cases |
 |------|---------|-------------|-------------|------------------|
-| <img src="https://tse2.mm.bing.net/th/id/OIP.U4_YW2I443Modrtb8Hu_IAHaE5?rs=1&pid=ImgDetMain" width="50"> | **Anaconda** | Animal 🐍 | Python distribution for data science with pre-installed libraries. | Data analysis, ML environments. |
-| <img src="images/conda.png" width="50"> | **Conda** | Derived from Anaconda 🐍 | Package & environment manager. | Managing dependencies & venvs. |
+| <img src="https://tse2.mm.bing.net/th/id/OIP.U4_YW2I443Modrtb8Hu_IAHaE5?rs=1&pid=ImgDetMain" width="100"> | **Anaconda** | Animal 🐍 | Python distribution for data science with pre-installed libraries. | Data analysis, ML environments. |
+| <img src="https://tse3.mm.bing.net/th/id/OIP.Ysfee5U6yBjGOYd3jiyPLAHaFK?rs=1&pid=ImgDetMain" width="100"> | **Conda** | Derived from Anaconda 🐍 | Package & environment manager. | Managing dependencies & venvs. |
 | <img src="images/pandas.png" width="50"> | **Pandas** | Animal 🐼 (from "Panel Data") | Data manipulation & analysis library. | DataFrames, Excel-like ops. |
 | <img src="images/turtle.png" width="50"> | **Turtle** | Animal 🐢 | Graphics drawing tool in the standard library. | Beginner programming, graphics. |
 | <img src="images/pillow.png" width="50"> | **Pillow** | Object 🛏️ | Image processing library (fork of PIL). | Editing & manipulating images. |
