@@ -1,4 +1,4 @@
-![16173-what-would-happen-if-we-lost-one-sixth-of-earths-species-we-may](https://github.com/user-attachments/assets/df00cb59-2d03-40e3-9783-d0fc44890c33)# 🐍 Python Libraries Inspired by Animals, Objects & Things
+# 🐍 Python Libraries Inspired by Animals, Objects & Things
 
 A fun and curated collection of Python libraries named after animals, objects, and other real-world things.  
 From **Anaconda** 🐍 to **Pillow** 🛏️ — Python’s naming creativity makes coding more memorable!
